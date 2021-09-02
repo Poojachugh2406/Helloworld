@@ -75,6 +75,6 @@ html{
        <img src="1.png" alt="" width="100% ">
        <h1 class="heading"></h1>
    </section>
-    <img src="https://raw.githubusercontent.com/Poojachugh2406/Helloworld/main/1.png" alt="alternatetext">
+    <img src="https://poojachugh24.github.io/helloworld/img/1.jpg" alt="alternatetext">
 </body>
 </html>
