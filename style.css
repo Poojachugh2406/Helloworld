@@ -1,0 +1,49 @@
+/* CSS Reset */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#navbar
+{
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0px;
+    background-color: black;
+}
+#navbar ul
+{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    
+    margin: 0%;
+    font-size: 1.5rem;
+}
+#navbar ul li a{
+    display: block;
+   text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    padding: 13px 79px;    
+    
+}
+#navbar::before
+{
+    content: "    ";
+    position: absolute;
+    opacity: 35%;
+    z-index: -1;
+    height: 16%;
+    width: 100%;
+}
+#navbar ul li a:hover
+{
+    color: rgba(167, 122, 71, 0.514);
+    background-color: rgba(5, 2, 2, 0.479);
+}
