@@ -72,7 +72,7 @@ html{
         </ul>
     </nav>
    <section id="id">
-       <img src="1.PNG" alt="" width="100% ">
+       <img src="1.png" alt="" width="100% ">
        <h1 class="heading"></h1>
    </section>
     <img src="https://raw.githubusercontent.com/Poojachugh2406/Helloworld/main/1.png" alt="alternatetext">
